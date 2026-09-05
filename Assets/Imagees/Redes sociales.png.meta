@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 3c1de5612b6271142ad24292475bad21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6825963344308989118
+    second: Redes sociales_0
+  - first:
+      213: -4562725142167388721
+    second: Redes sociales_1
+  - first:
+      213: 8138821632767330048
+    second: Redes sociales_2
+  - first:
+      213: -7814789581139355896
+    second: Redes sociales_3
+  - first:
+      213: -2448874906283760580
+    second: Redes sociales_4
+  - first:
+      213: -7855377063940598972
+    second: Redes sociales_5
+  - first:
+      213: 5525052524065252307
+    second: Redes sociales_6
+  - first:
+      213: -2732844016846799991
+    second: Redes sociales_7
+  - first:
+      213: 1696553729080704619
+    second: Redes sociales_8
+  - first:
+      213: 7325618631604062500
+    second: Redes sociales_9
+  - first:
+      213: 6611052075625511980
+    second: Redes sociales_10
+  - first:
+      213: -7877562551591265858
+    second: Redes sociales_11
+  - first:
+      213: 5250868940316253454
+    second: Redes sociales_12
+  - first:
+      213: 2533120946084220692
+    second: Redes sociales_13
+  - first:
+      213: 35095012014278531
+    second: Redes sociales_14
+  - first:
+      213: -3520157268457368856
+    second: Redes sociales_15
+  - first:
+      213: 7272413199331131301
+    second: Redes sociales_16
+  - first:
+      213: -4893727320673556535
+    second: Redes sociales_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Redes sociales_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 837
+        width: 172
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24310acf08e4541a0800000000000000
+      internalID: -6825963344308989118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 817
+        width: 82
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd7e5558a1fda0c0800000000000000
+      internalID: -4562725142167388721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 821
+        width: 162
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0078c575727e2f070800000000000000
+      internalID: 8138821632767330048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_3
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 829
+        width: 172
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807d3cdc74a4c8390800000000000000
+      internalID: -7814789581139355896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 560
+        width: 154
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34a6975f39d30ed0800000000000000
+      internalID: -2448874906283760580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 533
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443d11f0e281cf290800000000000000
+      internalID: -7855377063940598972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_6
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 551
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3e8466ffdecac40800000000000000
+      internalID: 5525052524065252307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_7
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 655
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b7b4d88dcf21ad0800000000000000
+      internalID: -2732844016846799991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_8
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 583
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e383cb0ae5b8710800000000000000
+      internalID: 1696553729080704619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_9
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 545
+        width: 36
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4294eb82553d9a560800000000000000
+      internalID: 7325618631604062500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 545
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c744ff5dc2fbb50800000000000000
+      internalID: 6611052075625511980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 234
+        width: 141
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb99b70b8964da290800000000000000
+      internalID: -7877562551591265858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 303
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d9ead1b75ded840800000000000000
+      internalID: 5250868940316253454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_13
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 251
+        width: 99
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f83745414772320800000000000000
+      internalID: 2533120946084220692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 344
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387cf7c3abeac7000800000000000000
+      internalID: 35095012014278531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_15
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 219
+        width: 138
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2d61c6d93e52fc0800000000000000
+      internalID: -3520157268457368856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_16
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 233
+        width: 147
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af7efd164dcce460800000000000000
+      internalID: 7272413199331131301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redes sociales_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 251
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7e0af0eecf51cb0800000000000000
+      internalID: -4893727320673556535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Redes sociales_0: -6825963344308989118
+      Redes sociales_1: -4562725142167388721
+      Redes sociales_10: 6611052075625511980
+      Redes sociales_11: -7877562551591265858
+      Redes sociales_12: 5250868940316253454
+      Redes sociales_13: 2533120946084220692
+      Redes sociales_14: 35095012014278531
+      Redes sociales_15: -3520157268457368856
+      Redes sociales_16: 7272413199331131301
+      Redes sociales_17: -4893727320673556535
+      Redes sociales_2: 8138821632767330048
+      Redes sociales_3: -7814789581139355896
+      Redes sociales_4: -2448874906283760580
+      Redes sociales_5: -7855377063940598972
+      Redes sociales_6: 5525052524065252307
+      Redes sociales_7: -2732844016846799991
+      Redes sociales_8: 1696553729080704619
+      Redes sociales_9: 7325618631604062500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
